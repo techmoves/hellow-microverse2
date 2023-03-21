@@ -75,7 +75,9 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-- Clone this repository to your desired folder https://github.com/techmoves/hellow-microverse2.git
+- Clone this repository to your desired folder https://github.com/techmoves/hellow-microverse2.g
+- Clone this repository to your desired folder  https://github.com/techmoves/hellow-microverse2.git
+
 - Run the command npm install to install necessary dependencies contained in the package.json file
 
 ### Install
