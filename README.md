@@ -144,9 +144,9 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- my Coding patners
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
